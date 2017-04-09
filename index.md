@@ -26,7 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](webimage.jpg)
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[Image](webimage.jpg)
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+!(webimage.jpg)
 
 ### Jekyll Themes
 
