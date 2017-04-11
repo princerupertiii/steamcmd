@@ -23,30 +23,33 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
 [Link](url) and ![Image](webimage.jpg)
 
 # First Header | Second Header
 ------------ | -------------
-## Content from cell 1 | Content from cell 2
-### Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ```
 
 ![Image](webimage.jpg)
 
-First Header | Second Header
------------- | -------------
+**First Header | Second Header
+------------ | -------------**
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
 ```markdown
 # My markdown Example
 
 
 
 ```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### **Jekyll Themes**
+**Jekyll Themes**
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/princerupertiii/steamcmd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
