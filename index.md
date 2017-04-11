@@ -32,8 +32,7 @@ Syntax highlighted code block
 ### Content in the first column | Content in the second column
 
 ```
-![Image](webimage.jpg)
-`!(webimage.jpg)`
+![Image](steamcmd/webimage.jpg)
 
 First Header | Second Header
 ------------ | -------------
